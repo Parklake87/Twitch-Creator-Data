@@ -8,7 +8,7 @@ This repository is focused on certain data comparing top live streamers on the p
 
 ## Provenance
 
--This data originated from [Source 1](sullygnome.com)
+-This data originated from [Kaggle](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata?resource=download))
 
 ## Potential
 
