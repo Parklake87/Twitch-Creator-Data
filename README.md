@@ -8,7 +8,7 @@ This repository is focused on certain data comparing top live streamers on the p
 
 ## Provenance
 
--sdf
+-This data originated from [Source 1](sullygnome.com)
 
 ## Potential
 
