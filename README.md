@@ -8,8 +8,8 @@ This repository is focused on certain data comparing top live streamers on the p
 
 ## Provenance
 
--This data originated from [Kaggle](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata?resource=download))
+-This data originated from [Kaggle](https://www.kaggle.com/datasets/aayushmishra1512/twitchdata?resource=download)
 
 ## Potential
 
-
+-This repository has the potential to provide a perspective on what is the most important to being a successful live streamer. It could possible inform and help anyone striving to be a live streaming content creator.
